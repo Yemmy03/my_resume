@@ -52,9 +52,9 @@ Designed and managed Docker-based deployment pipelines with GitHub Actions CI/CD
 ---
 ## CERTIFICATES/CERTIFICATIONS  
 
-Google Cybersecurity Professional Certificate | [Google](https://coursera.org/share/68c6d2583f488ce5106cd277191e669a) | Sept 2025   
-ISO/IEC 27001:2022 Lead Auditor | [Master Mind Assurance](https://www.credly.com/badges/5659b792-670d-4271-8997-b42078384407/public_url) | March 2025   
-AI Security & Governance | [Securiti](https://education.securiti.ai/verification/139043970-1390437DF-132E01C18/) | June 2025  
-API Security for PCI Compliance | [APISEC University](https://www.credly.com/badges/197b0b4c-dc64-4eba-bf6a-2825b5b5c4d0/public_url) | May 2025   
-Fraud Prevention, Dispute Resolution and PCI-DSS Masterclass | [Udemy](https://www.udemy.com/certificate/UC-3ede5345-347b-4e92-99bf-b27047810373/) | March 2025   
-Governance, Risk and Compliance | [GRC Afriq](https://credsverse.com/credentials/0506f71b-723a-418d-a387-9c182b84e40c) | January 2025  
+Google Cybersecurity Professional Certificate | [Google](https://coursera.org/share/68c6d2583f488ce5106cd277191e669a)   
+ISO/IEC 27001:2022 Lead Auditor | [Master Mind Assurance](https://www.credly.com/badges/5659b792-670d-4271-8997-b42078384407/public_url)    
+AI Security & Governance | [Securiti](https://education.securiti.ai/verification/139043970-1390437DF-132E01C18/) 
+API Security for PCI Compliance | [APISEC University](https://www.credly.com/badges/197b0b4c-dc64-4eba-bf6a-2825b5b5c4d0/public_url)  
+Fraud Prevention, Dispute Resolution and PCI-DSS Masterclass | [Udemy](https://www.udemy.com/certificate/UC-3ede5345-347b-4e92-99bf-b27047810373/)   
+Governance, Risk and Compliance | [GRC Afriq](https://credsverse.com/credentials/0506f71b-723a-418d-a387-9c182b84e40c) 
